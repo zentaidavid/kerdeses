@@ -1,1 +1,1 @@
-# kerdeses
+# kerdeses - osztott rendszerek
